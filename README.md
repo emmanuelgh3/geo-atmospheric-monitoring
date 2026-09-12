@@ -10,7 +10,7 @@ Para cada estación de monitoreo disponible en la red, la aplicación realiza el
 
 2. Limpia los valores faltantes y no numéricos.
 
-3. Asigna categorías de calidad del aire (buena, regular, mala, muy mala, extremadamente mala) a las mediciones de las estaciones.
+3. Asigna categorías de calidad del aire (buena, aceptable, mala, muy mala, extremadamente mala) a las mediciones de las estaciones.
 
 4. Interpola mediante IDW las mediciones continuas de $PM_{10}$ y $PM_{2.5}$ dentro de una cuadrícula geográfica.
 
