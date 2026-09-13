@@ -75,6 +75,7 @@ geo-atmospheric-monitoring/
 
 │   └── national_demo.png  # Imagen de la interfaz
 
+│   └── national_demo.gif  # Animación de la interfaz
 
 │
 
