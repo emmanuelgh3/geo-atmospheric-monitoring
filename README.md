@@ -1,6 +1,8 @@
 # geo-atmospheric-monitoring
 Una aplicación de datos desarrollada en Phyton que colecta mediciones públicas de calidad del aire en México, procesa datos de contaminación, estima la concentración espacial mediante interpolación de distancia inversa (IDW) y muestra los resultados en un mapa web interactivo. El proyecto se construyó como un flujo de trabajo de datos end-to-end, iniciando con la recopilación y limpieza de datos hasta el análisis espacial y visualización.
 
+![Interfaz](assets/national_demo.gif)
+
 ## Resumen General
 La aplicación utiliza datos de monitoreo de contaminantes disponibles en la red pública SINAICA.
 
